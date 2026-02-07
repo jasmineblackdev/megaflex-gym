@@ -91,7 +91,7 @@ This redesign focuses on **clarity, speed, and conversion**.
 ---
 
 ##  Screenshots / Preview
-file:///Users/jasmineblack/Desktop/Projects/Websites/Megaflex/index-2.html
+
 
 ---
 
