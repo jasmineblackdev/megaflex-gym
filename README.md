@@ -77,6 +77,11 @@ This redesign focuses on **clarity, speed, and conversion**.
 
 ---
 
+##  Preview
+
+🔗 Repo: https://jasmineblackdev.github.io/megaflex-gym/
+
+---
 ##  Design Direction
 
 - Dark, high-contrast gym aesthetic
