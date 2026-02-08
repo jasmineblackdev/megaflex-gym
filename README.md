@@ -77,9 +77,6 @@ This redesign focuses on **clarity, speed, and conversion**.
 
 ---
 
-
----
-
 ##  Design Direction
 
 - Dark, high-contrast gym aesthetic
