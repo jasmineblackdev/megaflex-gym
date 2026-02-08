@@ -90,11 +90,6 @@ This redesign focuses on **clarity, speed, and conversion**.
 
 ---
 
-##  Screenshots / Preview
-https://jasmineblackdev.github.io/megaflex-gym/index-2.html
-
----
-
 ##  Future Enhancements
 
 - Online class scheduling
